@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/X.dir/server.cpp.o CMakeFiles/X.dir/client.cpp.o CMakeFiles/X.dir/test.cpp.o  -o X 

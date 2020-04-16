@@ -1,0 +1,2 @@
+1. run server from a terminal window. it would print a port number for connection
+2. run clinet from another terminal window and pass argument <IP (127.0.0.1 if same machine)> <port given by the server>

@@ -1,0 +1,3 @@
+/home/moiz/Downloads/X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/moiz/Downloads/X/cmake-build-debug/CMakeFiles/X.dir
+/home/moiz/Downloads/X/cmake-build-debug/CMakeFiles/edit_cache.dir
